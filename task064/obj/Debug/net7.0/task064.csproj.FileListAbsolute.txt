@@ -1,0 +1,15 @@
+C:\Users\danii\Desktop\учеба\HW\hw9\task064\bin\Debug\net7.0\task064.exe
+C:\Users\danii\Desktop\учеба\HW\hw9\task064\bin\Debug\net7.0\task064.deps.json
+C:\Users\danii\Desktop\учеба\HW\hw9\task064\bin\Debug\net7.0\task064.runtimeconfig.json
+C:\Users\danii\Desktop\учеба\HW\hw9\task064\bin\Debug\net7.0\task064.dll
+C:\Users\danii\Desktop\учеба\HW\hw9\task064\bin\Debug\net7.0\task064.pdb
+C:\Users\danii\Desktop\учеба\HW\hw9\task064\obj\Debug\net7.0\task064.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\учеба\HW\hw9\task064\obj\Debug\net7.0\task064.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Desktop\учеба\HW\hw9\task064\obj\Debug\net7.0\task064.AssemblyInfoInputs.cache
+C:\Users\danii\Desktop\учеба\HW\hw9\task064\obj\Debug\net7.0\task064.AssemblyInfo.cs
+C:\Users\danii\Desktop\учеба\HW\hw9\task064\obj\Debug\net7.0\task064.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\учеба\HW\hw9\task064\obj\Debug\net7.0\task064.dll
+C:\Users\danii\Desktop\учеба\HW\hw9\task064\obj\Debug\net7.0\refint\task064.dll
+C:\Users\danii\Desktop\учеба\HW\hw9\task064\obj\Debug\net7.0\task064.pdb
+C:\Users\danii\Desktop\учеба\HW\hw9\task064\obj\Debug\net7.0\task064.genruntimeconfig.cache
+C:\Users\danii\Desktop\учеба\HW\hw9\task064\obj\Debug\net7.0\ref\task064.dll
